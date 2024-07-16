@@ -1,0 +1,18 @@
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    flex-direction: column;
+    color: #012443;
+    background-color: #d1a795;
+}
+
+#box {
+    background-color: #FDD2BF;
+    padding: 15px;
+    width: 400px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px #012443;
+}
