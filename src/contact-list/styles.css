@@ -1,0 +1,41 @@
+input {
+    width: 100%;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    border-radius: 2px;
+    margin: 3px 0;
+    outline: none;
+    font-size: 14px;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+h2 {
+    text-align: left;
+}
+
+#list {
+    width: 100%;
+    padding: 0px 10px;
+    box-sizing: border-box;
+    transition: all linear 300ms;
+}
+
+#list li {
+    width: 100%;
+    display: flex;
+    margin: 5px 0;
+    justify-content: space-between;
+    font-weight: 500;
+}
+
+#totalCount {
+    font-weight: 500;
+    margin: 10px 0;
+    text-align: right;
+    padding: 0 10px;
+    display: block;
+}

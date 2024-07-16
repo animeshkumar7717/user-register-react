@@ -36,7 +36,7 @@ The User Registration Application is a web-based application built using React t
     ```
 2. Navigate to the project directory:
     ```bash
-    cd user-registration-app
+    cd user-registration-react
     ```
 3. Install the dependencies:
     ```bash
